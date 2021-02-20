@@ -1,3 +1,3 @@
 int main() {
-    int a = 20;
+    char elo = "c";
 }
