@@ -1,4 +1,4 @@
 int main() {
     //siema siema
-    char elo = "c";
+    char siema = "c";
 }
