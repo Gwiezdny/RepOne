@@ -1,4 +1,4 @@
 int main() {
     //siema siema
-    char siema = "c";
+    char nara = "c";
 }
